@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sonar": "node_modules/sonar-scanner/bin/sonar-scanner.bat"
+    "sonar": "start C:/sonarqube/sonarqube-9.8.0.63668/bin/windows-x86-64/StartSonar"
   },
   "author": "Prashant",
   "license": "ISC",
